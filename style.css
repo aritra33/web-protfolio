@@ -64,6 +64,9 @@ section{
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
 }
+#img1{
+    margin-right: 10px;
+}
 footer{
     text-align: center;
 }
